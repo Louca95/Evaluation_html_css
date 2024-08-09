@@ -207,7 +207,7 @@ footer img{
     
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 768px) { /*je media screen pour le responsive*/
     nav ul{
         background-color: #000;
         display:flex;
